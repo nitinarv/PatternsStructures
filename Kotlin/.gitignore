@@ -17,7 +17,9 @@ hs_err_pid*
 
 ### Gradle ###
 .gradle
+.gradle/
 build/
+build
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -80,6 +82,7 @@ local.properties
 
 ## Directory-based project format:
 .idea/
+.idea
 
 ## File-based project format:
 *.ipr
