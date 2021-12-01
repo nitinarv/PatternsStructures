@@ -1,4 +1,4 @@
-# fuzzy-waddle
+# patterns-structures
 Python
 Kotlin
 Java
